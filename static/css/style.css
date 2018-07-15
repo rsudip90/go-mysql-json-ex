@@ -1,0 +1,19 @@
+html, body {
+    font-family: sans-serif;
+}
+
+#sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    padding: 55px 0 0;
+    display: block;
+    border-right: 1px solid silver;
+}
+
+#main {
+    padding: 65px 10px 10px;
+    margin-left: auto;
+}
